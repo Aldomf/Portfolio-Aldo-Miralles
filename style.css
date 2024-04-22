@@ -60,7 +60,7 @@ html {
 /* HOME SECTION */
 .home-section {
     width: 100%;
-    background-image: linear-gradient(to top, rgba(30,35,38,.8), rgba(30,35,38,1)), url(../img/fondo.jpg);
+    background-image: linear-gradient(to top, rgba(30,35,38,.8), rgba(30,35,38,1)), url(img/fondo.jpg);
     background-size: cover;
     height: 100vh;
     display: flex;
