@@ -556,7 +556,7 @@ html {
     background-color: rgb(30, 35, 38);
     color: rgb(255, 255, 255);
     padding: 50px 20px;
-    background-image: url(../img/contact_bg.png);
+    background-image: url(img/contact_bg.png);
     background-size: cover;
 }
 .contact .container {
