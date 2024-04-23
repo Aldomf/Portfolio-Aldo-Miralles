@@ -103,7 +103,7 @@ html {
     list-style: none;
     display: flex;
     justify-content: space-between;
-    width: 220px;
+    width: 250px;
 }
 .home-section .container .social-networks ul li a {
     display: flex;
@@ -683,7 +683,7 @@ html {
     list-style: none;
     display: flex;
     justify-content: space-between;
-    width: 220px;
+    width: 250px;
 }
 .footer .container {
     display: flex;
