@@ -517,6 +517,9 @@ html {
     cursor: pointer;
     height: 256px;
 }
+.portfolio .container .subcontainer .chat {
+    background-color: aquamarine;
+}
 .portfolio .container .subcontainer .proyect a {
     text-decoration: none;
     color: #fff;
