@@ -574,20 +574,21 @@ html {
 }
 .contact .container .subcontainer {
     display: flex;
+    justify-content: center;
     width: 100%;
 }
 .contact .container .subcontainer col {
     max-width: 100%;
 }
-.contact .container .subcontainer .left {
+/* .contact .container .subcontainer .left {
     width: 50%;
     padding-right: 10px;
 }
 .contact .container .subcontainer .left form {
     display: flex;
     flex-direction: column;
-}
-.contact .container form input, .contact .container form textarea {
+} */
+/* .contact .container form input, .contact .container form textarea {
     margin-bottom: 20px;
     background-color: rgb(37, 42, 46);
     padding: 18px;
@@ -597,8 +598,8 @@ html {
 } 
 .container form textarea {
     margin-bottom: 0 !important;
-}
-.contact .container .subcontainer .left .button {
+} */
+/* .contact .container .subcontainer .left .button {
     display: flex;
     justify-content: center;
 }
@@ -626,7 +627,7 @@ html {
 }
 .contact .container .subcontainer .left button:hover .overlay {
     width: 100%;
-}
+} */
 .contact .container .subcontainer .right {
     width: 50%;
     padding-left: 10px;
